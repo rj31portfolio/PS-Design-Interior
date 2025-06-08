@@ -1,7 +1,10 @@
+<?php
+define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
+?>
 <!DOCTYPE html>
 <html lang="zxx">
 
-<!-- Mirrored from html.awaikenthemes.com/inspaire/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jun 2025 17:18:59 GMT -->
+
 <head>
 	<!-- Meta -->
 	<meta charset="utf-8">
@@ -258,8 +261,8 @@
     <!-- Wow js file -->
     <script src="js/wow.min.js"></script>
     <!-- Main Custom js file -->
-    <script src="js/function.js"></script>
+    <script src="<?php echo BASE_URL; ?>/js/script.js"></script>
 </body>
 
-<!-- Mirrored from html.awaikenthemes.com/inspaire/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jun 2025 17:18:59 GMT -->
+
 </html>

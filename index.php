@@ -1,8 +1,12 @@
+<?php
+define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
+?>
 <!DOCTYPE html>
 <html lang="zxx">
 
 
 <head>
+   
 	<!-- Meta -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,59 +39,60 @@
 	<!-- Main Custom Css -->
 	<link href="css/custom.css" rel="stylesheet" media="screen">
 </head>
+
+
 <body>
 
-    <!-- Preloader Start -->
-	<?php require_once "preloader.php" ?>
-	<!-- Preloader End -->
+   <!-- Preloader Start -->
+    <?php require_once "preloader.php"; ?>
+    <!-- Preloader End -->
 
     <!-- Header Start -->
-	<?php require_once "header.php" ?>
-	<!-- Header End -->
+    <?php require_once "header.php"; ?>
+    <!-- Header End -->
 
     <!-- Hero Section Start -->
-   <?php  include "hero-home.php"?>
+    <?php include_once "hero-home.php"; ?>
     <!-- Hero Section End -->
-    
+
     <!-- About Us Section Start -->
-    <?php  include "about-home.php"?>
+    <?php include_once "about-home.php"; ?>
     <!-- About Us Section End -->
 
     <!-- Why Choose Us Section Start -->
-    <?php  include "whychoose-home.php"?>
+    <?php include_once "whychoose-home.php"; ?>
     <!-- Why Choose Us Section End -->
 
     <!-- Our Services Section Start -->
-    <?php  include "service-home.php"?>
+    <?php include_once "service-home.php"; ?>
     <!-- Our Services Section End -->
 
     <!-- Intro Video Section Start -->
-    <?php  include "intro-video.php"?>
+    <?php include_once "intro-video.php"; ?>
     <!-- Intro Video Section End -->
 
-    <!-- Our Project Start -->
-    <?php  include "project-home.php"?>
-    <!-- Our Project End -->
+    <!-- Our Projects Start -->
+    <?php include_once "project-home.php"; ?>
+    <!-- Our Projects End -->
 
     <!-- How We Work Start -->
-    <?php  include "home-work.php"?>
+    <?php include_once "home-work.php"; ?>
     <!-- How We Work End -->
 
     <!-- Our Skill Start -->
-    <?php  include "home-skill.php"?>
-    
+    <?php include_once "home-skill.php"; ?>
     <!-- Our Skill End -->
 
-    <!-- Our Testimonial Start -->
-    <?php  include "testimonial-home.php"?>
-    <!-- Our Testimonial End -->
+    <!-- Testimonials Start -->
+    <?php include_once "testimonial-home.php"; ?>
+    <!-- Testimonials End -->
 
-    <!-- Our Blog Section Start -->
-    <?php  include "blog-home.php"?>
-    <!-- Our Blog Section End -->
+    <!-- Blog Section Start -->
+    <?php include_once "blog-home.php"; ?>
+    <!-- Blog Section End -->
 
     <!-- Footer Start -->
-    <?php  require_once "footer.php"?>
+    <?php require_once "footer.php"; ?>
     <!-- Footer End -->
 
     <!-- Jquery Library File -->
@@ -104,7 +109,7 @@
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/jquery.counterup.min.js"></script>
     <!-- Isotop js file -->
-	<script src="js/isotope.min.js"></script>
+    <script src="js/isotope.min.js"></script>
     <!-- Magnific js file -->
     <script src="js/jquery.magnific-popup.min.js"></script>
     <!-- SmoothScroll -->
@@ -122,7 +127,9 @@
     <!-- Wow js file -->
     <script src="js/wow.min.js"></script>
     <!-- Main Custom js file -->
-    <script src="js/function.js"></script>
+   <script src="<?php echo BASE_URL; ?>/js/script.js"></script>
+
+    
 </body>
 
 
