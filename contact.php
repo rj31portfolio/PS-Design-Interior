@@ -14,7 +14,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 	<meta name="keywords" content="">
 	<meta name="author" content="Awaiken">
 	<!-- Page Title -->
-    <title>Inspaire - Architecture and Interior Design HTML Template</title>
+    <title>Preeti Sethi Designs || Contact US</title>
 	<!-- Favicon Icon -->
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
 	<!-- Google Fonts Css-->
@@ -176,8 +176,8 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                             <!-- Contact Info Content Start -->
                             <div class="contact-info-content">
                                 <h3>phone number</h3>
-                                <p>(+05) 698 - 548 - 6354</p>
-                                <p>(+07) 358 - 879 - 3257</p>                               
+                                <p>+91-+919971891303</p>
+                               <!-- <p>(+07) 358 - 879 - 3257</p>       -->                         
                             </div>
                             <!-- Contact Info Content End -->
                         </div>
