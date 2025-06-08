@@ -14,7 +14,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 	<meta name="keywords" content="">
 	<meta name="author" content="Awaiken">
 	<!-- Page Title -->
-    <title>Inspaire - Architecture and Interior Design HTML Template</title>
+    <title>Preeti Sethi Designs</title>
 	<!-- Favicon Icon -->
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
 	<!-- Google Fonts Css-->
