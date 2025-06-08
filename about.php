@@ -58,8 +58,8 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 						<h1 class="text-anime-style-2" data-cursor="-opaque">About us</h1>
 						<nav class="wow fadeInUp">
 							<ol class="breadcrumb">
-								<li class="breadcrumb-item"><a href="index.html">home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">about us</li>
+								<li class="breadcrumb-item"><a href="index.php">home</a></li>
+								
 							</ol>
 						</nav>
 					</div>
@@ -75,100 +75,102 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
     <!-- About Us Section End -->
 
     <!-- Vision Mission Start -->
-    <div class="vision-mission">
-        <div class="container">
-            <div class="row section-row align-items-center">
-                <div class="col-lg-6">
-                    <!-- Section Title Start -->
-                    <div class="section-title dark-section">
-                        <h3 class="wow fadeInUp">vision mission</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">A behind the scenes look at <span>our agency</span></h2>
-                    </div>
-                    <!-- Section Title End -->
+<div class="vision-mission">
+    <div class="container">
+        <div class="row section-row align-items-center">
+            <div class="col-lg-6">
+                <!-- Section Title Start -->
+                <div class="section-title dark-section">
+                    <h3 class="wow fadeInUp">our vision & mission</h3>
+                    <h2 class="text-anime-style-2" data-cursor="-opaque">Discover the heart behind <span>our design journey</span></h2>
                 </div>
-
-                <div class="col-lg-6">
-                    <!-- Section Title Content Start -->
-                    <div class="section-title-content dark-section">
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">Our portfolio showcases a diverse range of projects, from beautifully crafted residential spaces functional and stylish commercial interiors</p>
-                    </div>
-                    <!-- Section Title Content End -->
-                </div>
+                <!-- Section Title End -->
             </div>
 
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- Vision Mission Box Start -->
-                    <div class="vision-mission-box">
-                        <!-- Vision Mission Item Start -->
-                        <div class="vision-mission-item wow fadeInUp">
-                            <div class="icon-box">
-                                <img src="images/icon-our-vision.svg" alt="">
-                            </div>
-                            <div class="vision-mission-content">
-                                <h3>our vision</h3>
-                                <p>Our vision is rooted in the belief that thoughtfully designed spaces can transform lives, enhancing how people feel, work, and connect. We are committed to creating interiors that reflect our clients' unique identities, blending comfort, functionality, and beauty. By combining timeless design with modern innovations, we craft spaces that are visually stunning and practical.</p>
-                            </div>
-                        </div>
-                        <!-- Vision Mission Item End -->
-    
-                        <!-- Vision Mission Item Start -->
-                        <div class="vision-mission-item wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="icon-box">
-                                <img src="images/icon-our-mission.svg" alt="">
-                            </div>
-                            <div class="vision-mission-content">
-                                <h3>our mission</h3>
-                                <p>Our mission is to deliver exceptional interior designs that enhance the quality of life by prioritizing comfort, functionality, and aesthetics. We aim to create space that are not only visually appealing but also tailored to meet the specific needs and desires of our client By staying true to design innovation, we ensure that every project reflects the perfect balance between style and purpose.</p>
-                            </div>
-                        </div>
-                        <!-- Vision Mission Item End -->
-                    </div>
-                    <!-- Vision Mission Box End -->
+            <div class="col-lg-6">
+                <!-- Section Title Content Start -->
+                <div class="section-title-content dark-section">
+                    <p class="wow fadeInUp" data-wow-delay="0.2s">From elegant homes to inspiring workspaces, our portfolio reflects our passion for creating functional, aesthetic, and soulful interiors that make everyday living beautiful.</p>
                 </div>
+                <!-- Section Title Content End -->
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Vision Mission Box Start -->
+                <div class="vision-mission-box">
+                    <!-- Vision Mission Item Start -->
+                    <div class="vision-mission-item wow fadeInUp">
+                        <div class="icon-box">
+                            <img src="images/icon-our-vision.svg" alt="Vision Icon">
+                        </div>
+                        <div class="vision-mission-content">
+                            <h3>our vision</h3>
+                            <p>We envision a world where every space tells a story—your story. Our goal is to design interiors that blend Indian sensibilities with global trends, creating environments that uplift moods, foster well-being, and celebrate individuality. Through innovation and timeless aesthetics, we craft spaces that inspire and endure.</p>
+                        </div>
+                    </div>
+                    <!-- Vision Mission Item End -->
+
+                    <!-- Vision Mission Item Start -->
+                    <div class="vision-mission-item wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="icon-box">
+                            <img src="images/icon-our-mission.svg" alt="Mission Icon">
+                        </div>
+                        <div class="vision-mission-content">
+                            <h3>our mission</h3>
+                            <p>Our mission is to transform everyday spaces into meaningful experiences. By deeply understanding our clients' dreams and blending them with design excellence, we deliver interiors that are elegant, efficient, and deeply personal. We are committed to quality, creativity, and collaboration in every project we take on.</p>
+                        </div>
+                    </div>
+                    <!-- Vision Mission Item End -->
+                </div>
+                <!-- Vision Mission Box End -->
             </div>
         </div>
     </div>
-    <!-- Vision Mission End -->
+</div>
+<!-- Vision Mission End -->
 
-    <!-- Best Seeling Start -->
-     <div class="best-selling">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <!-- Best Seeling Content Start -->
-                    <div class="best-selling-content">
-                        <!-- Best Seeling Content Image Start -->
-                        <div class="best-selling-content-img">
-                            <figure class="image-anime reveal">
-                                <img src="images/best-selling-img-1.jpg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Best Seeling Content Image End -->
 
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">best selling finishes</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">We use materials only from personally <span>verified suppliers</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">Gloss, matte wood texture, 200+ colors to choose from. Environmentally friendly materials, all certificates are available.</p>
-                        </div>
-                        <!-- Section Title End -->
-                    </div>
-                    <!-- Best Seeling Content End -->
-                </div>
-                <div class="col-lg-6">
-                    <!-- Best Seeling Image Start -->
-                    <div class="best-selling-iamge">
+   <!-- Best Selling Start -->
+<div class="best-selling">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <!-- Best Selling Content Start -->
+                <div class="best-selling-content">
+                    <!-- Best Selling Content Image Start -->
+                    <div class="best-selling-content-img">
                         <figure class="image-anime reveal">
-                            <img src="images/best-selling-img-2.jpg" alt="">
+                            <img src="images/best-selling-img-1.jpg" alt="Premium Finish Sample">
                         </figure>
                     </div>
-                    <!-- Best Seeling Image End -->
+                    <!-- Best Selling Content Image End -->
+
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">top-rated finishes</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Crafted with care, sourced from <span>trusted partners only</span></h2>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">From elegant gloss to rich matte and wood grains, we offer 200+ stunning shades. All materials are eco-conscious, certified, and handpicked to ensure beauty, safety, and lasting quality for your dream home.</p>
+                    </div>
+                    <!-- Section Title End -->
                 </div>
+                <!-- Best Selling Content End -->
+            </div>
+            <div class="col-lg-6">
+                <!-- Best Selling Image Start -->
+                <div class="best-selling-iamge">
+                    <figure class="image-anime reveal">
+                        <img src="images/best-selling-img-2.jpg" alt="Finish Collection">
+                    </figure>
+                </div>
+                <!-- Best Selling Image End -->
             </div>
         </div>
-     </div>
-    <!-- Best Seeling End -->
+    </div>
+</div>
+<!-- Best Selling End -->
+
 
    
 
@@ -180,101 +182,102 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
     <?php  include "home-work.php"; ?>
     <!-- How We Work End -->
 
-    <!-- Our Faqs Stat -->
-    <div class="our-faqs">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-7">
-                    <!-- Our Faq Content Start -->
-                    <div class="our-faqs-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">asked question</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Have your any question look <span>here now</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">Nostra turma dedicata consilium arctius operatur ut visionem tuam intelligat et eam ad vitam adducat cum magna cura in singula</p>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- FAQ Accordion Start -->
-                        <div class="faq-accordion" id="accordion">
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp">
-                                <h2 class="accordion-header" id="heading1">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                        <span>1.</span>  What is the typical process for starting a design project?
-                                    </button>
-                                </h2>
-                                <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Our process starts with a consultation to discuss your vision, followed by planning, design presentation, and implementation to achieve your ideal space.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                                <h2 class="accordion-header" id="heading2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                        <span>2.</span>  How long does a typical interior design project take?
-                                    </button>
-                                </h2>
-                                <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Our process starts with a consultation to discuss your vision, followed by planning, design presentation, and implementation to achieve your ideal space.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                                <h2 class="accordion-header" id="heading3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                        <span>3.</span>  Can I incorporate my existing furniture into the new design?
-                                    </button>
-                                </h2>
-                                <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Our process starts with a consultation to discuss your vision, followed by planning, design presentation, and implementation to achieve your ideal space.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                <h2 class="accordion-header" id="heading4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                        <span>4.</span>  What should I expect during the design consultation?
-                                    </button>
-                                </h2>
-                                <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>Our process starts with a consultation to discuss your vision, followed by planning, design presentation, and implementation to achieve your ideal space.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-                        </div>
-                        <!-- FAQ Accordion End -->
+    <!-- Our FAQs Start -->
+<div class="our-faqs">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-7">
+                <!-- Our FAQ Content Start -->
+                <div class="our-faqs-content">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">frequently asked questions</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Got a question? <span>We’ve answered a few below</span></h2>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">Our dedicated team works closely with you to understand your vision and bring it to life with thoughtful planning and personalized execution.</p>
                     </div>
-                    <!-- Our Faq Content End -->
-                </div>
+                    <!-- Section Title End -->
 
-                <div class="col-lg-5">
-                    <!-- Our Faq Image Start -->
-                    <div class="our-faqs-image">
-                        <figure class="image-anime reveal">
-                            <img src="images/faqs-image.jpg" alt="">
-                        </figure>
+                    <!-- FAQ Accordion Start -->
+                    <div class="faq-accordion" id="accordion">
+                        <!-- FAQ Item Start -->
+                        <div class="accordion-item wow fadeInUp">
+                            <h2 class="accordion-header" id="heading1">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                                    <span>1.</span> How does the interior design process begin?
+                                </button>
+                            </h2>
+                            <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>We begin with an initial consultation to understand your space, taste, and preferences. This is followed by concept planning, design drafts, material selection, and final execution.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- FAQ Item End -->
+
+                        <!-- FAQ Item Start -->
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
+                            <h2 class="accordion-header" id="heading2">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                    <span>2.</span> How long does a typical interior design project take?
+                                </button>
+                            </h2>
+                            <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>Project timelines vary based on scope and size. On average, residential projects take 4–8 weeks, while commercial spaces may take longer depending on customization and approvals.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- FAQ Item End -->
+
+                        <!-- FAQ Item Start -->
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
+                            <h2 class="accordion-header" id="heading3">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                    <span>3.</span> Can I use my existing furniture in the new design?
+                                </button>
+                            </h2>
+                            <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>Absolutely! We encourage reusing furniture pieces that have sentimental value or still fit the aesthetic. Our team will help integrate them seamlessly into the new layout.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- FAQ Item End -->
+
+                        <!-- FAQ Item Start -->
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                            <h2 class="accordion-header" id="heading4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                    <span>4.</span> What can I expect during the design consultation?
+                                </button>
+                            </h2>
+                            <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordion">
+                                <div class="accordion-body">
+                                    <p>During the consultation, we’ll explore your ideas, lifestyle needs, and budget. Our experts will guide you with concepts, sample materials, and insights to help you make informed decisions.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- FAQ Item End -->
                     </div>
-                    <!-- Our Faq Image End -->
+                    <!-- FAQ Accordion End -->
                 </div>
+                <!-- Our FAQ Content End -->
+            </div>
+
+            <div class="col-lg-5">
+                <!-- Our FAQ Image Start -->
+                <div class="our-faqs-image">
+                    <figure class="image-anime reveal">
+                        <img src="images/faqs-image.jpg" alt="FAQs Illustration">
+                    </figure>
+                </div>
+                <!-- Our FAQ Image End -->
             </div>
         </div>
-     </div>
-    <!-- Our Faqs End -->
+    </div>
+</div>
+<!-- Our FAQs End -->
+
 
     <!-- Our Clients Start -->
      <div class="our-clients">
