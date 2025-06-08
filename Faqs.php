@@ -123,7 +123,7 @@
                                             <img src="images/icon-mail.svg" alt="">
                                         </div>
                                         <div class="cta-contact-item-content">
-                                            <p>info@domain.com</p>
+                                            <p>info@preetisethidesigns.com/</p>
                                         </div>
                                     </div>
                                     <!-- Sidebar CTA Contact Item Start -->

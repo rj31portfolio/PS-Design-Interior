@@ -59,8 +59,8 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 						<h1 class="text-anime-style-2" data-cursor="-opaque">Conatct us</h1>
 						<nav class="wow fadeInUp">
 							<ol class="breadcrumb">
-								<li class="breadcrumb-item"><a href="index.html">home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">conatct us</li>
+								<li class="breadcrumb-item"><a href="index.php">home</a></li>
+								
 							</ol>
 						</nav>
 					</div>
@@ -155,7 +155,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                 <div class="col-lg-12">
                     <!-- Google Map IFrame Start -->
                     <div class="google-map-iframe">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96737.10562045308!2d-74.08535042841811!3d40.739265258395164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1703158537552!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=23,%20Pocket%2019%20,%20Sector%2024%20,%20Rohini%20-%20110085+(Preeti%20Sethi%20Designs)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.mapsdirections.info/calcular-la-población-en-un-mapa"></a></iframe></div>
                     </div>
                     <!-- Google Map IFrame End -->
                 </div>
