@@ -194,8 +194,8 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                             <!-- Contact Info Content Start -->
                             <div class="contact-info-content">
                                 <h3>e-mail support</h3>
-                                <p>hello@domain12.com</p>
-                                <p>hello@domain12.com</p>
+                                <p>info@preetisethidesigns.com</p>
+                               
                             </div>
                             <!-- Contact Info Content End -->
                         </div>
@@ -211,8 +211,9 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 
                             <!-- Contact Info Content Start -->
                             <div class="contact-info-content">
-                                <h3>headquarter</h3>
-                                <p>2972 Westheimer Rd. Santa Ana Illinois 85486</p>
+                                <h3>Office</h3>
+                                <p>23, Pocket 19 , Sector 24 , Rohini -
+110085</p>
                             </div>
                             <!-- Contact Info Content End -->
                         </div>

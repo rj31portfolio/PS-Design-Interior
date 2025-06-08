@@ -110,7 +110,7 @@
                         <h3>get the latest trending news</h3>
                         
                         <div class="footer-newsletter-form">
-                            <p>Your Dream Space Starts Here Get Exclusive Design Straight Your Inbox!</p>
+                            <p>Bringing Your Dream Spaces to Life.</p>
 
                             <form id="newslettersForm" action="#" method="POST">
                                 <div class="form-group">
@@ -130,7 +130,7 @@
                     <div class="col-md-12">
                         <!-- Footer Copyright Start -->
                         <div class="footer-copyright-text">
-                            <p>Copyright © 2024 All Rights Reserved.</p>
+                            <p>Copyright © 2024 All Rights Reserved. || Design By- <a href="../../../www.apanasolution.com">Apana Solution</a></p>
                         </div>
                         <!-- Footer Copyright End -->
                     </div>
