@@ -79,7 +79,7 @@
                         <!-- Why Choose img 1 Start -->
                         <div class="why-choose-img-1">
                             <figure class="image-anime reveal">
-                                <img src="images/why-choose-img-1.jpg" alt="">
+                                <img src="images/chooise 1.webp" alt="">
                             </figure>
                         </div>
                         <!-- Why Choose img 1 End -->
@@ -87,7 +87,7 @@
                         <!-- Why Choose img 2 Start -->
                         <div class="why-choose-img-2">
                             <figure class="image-anime reveal">
-                                <img src="images/why-choose-img-2.jpg" alt="">
+                                <img src="images/choose2.webp" alt="">
                             </figure>
                         </div>
                         <!-- Why Choose img 2 End -->
@@ -99,7 +99,7 @@
                         <!-- Why Choose img 3 Start -->
                         <div class="why-choose-img-3">
                             <figure class="image-anime reveal">
-                                <img src="images/why-choose-img-3.jpg" alt="">
+                                <img src="images/choose 3.webp" alt="">
                             </figure>
                         </div>
                         <!-- Why Choose img 3 End -->
@@ -107,7 +107,7 @@
                         <!-- Why Choose img 4 Start -->
                         <div class="why-choose-img-4">
                             <figure class="image-anime reveal">
-                                <img src="images/why-choose-img-4.jpg" alt="">
+                                <img src="images/choose4.webp" alt="">
                             </figure>
                         </div>
                         <!-- Why Choose img 4 End -->

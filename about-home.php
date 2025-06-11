@@ -6,12 +6,12 @@
                 <div class="about-us-images">
                     <div class="about-img-1">
                         <figure class="image-anime reveal">
-                            <img src="images/about-img-1.jpg" alt="Interior Design Sample">
+                            <img src="images/abouthome1.webp" alt="Interior Design Sample">
                         </figure>
                     </div>
                     <div class="about-img-2">
                         <figure class="image-anime reveal">
-                            <img src="images/about-img-2.jpg" alt="Elegant Home Decor">
+                            <img src="images/about-home 2.webp" alt="Elegant Home Decor">
                         </figure>
                         <div class="experience-counter">
                             <h3><span class="counter">15</span>+</h3>
