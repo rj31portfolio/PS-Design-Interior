@@ -74,22 +74,8 @@
                 </div>
                 <!-- How We Work List End -->
 
-                <!-- How Work Company Slider Start -->
-                <div class="how-work-company-slider">
-                    <div class="swiper">
-                        <div class="swiper-wrapper">
-                            <!-- Company Support Logos -->
-                            <div class="swiper-slide"><div class="company-logo"><img src="images/company-logo-1.svg" alt=""></div></div>
-                            <div class="swiper-slide"><div class="company-logo"><img src="images/company-logo-2.svg" alt=""></div></div>
-                            <div class="swiper-slide"><div class="company-logo"><img src="images/company-logo-3.svg" alt=""></div></div>
-                            <div class="swiper-slide"><div class="company-logo"><img src="images/company-logo-4.svg" alt=""></div></div>
-                            <div class="swiper-slide"><div class="company-logo"><img src="images/company-logo-5.svg" alt=""></div></div>
-                            <div class="swiper-slide"><div class="company-logo"><img src="images/company-logo-1.svg" alt=""></div></div>
-                        </div>
-                    </div>
-                </div>
-                <!-- How Work Company Slider End -->
-            </div>
+              
+            </div> 
         </div>
     </div>
 </div>
