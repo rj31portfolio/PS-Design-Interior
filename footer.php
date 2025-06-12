@@ -9,7 +9,7 @@
                             <div class="col-md-6">
                                 <!-- Footer Logo Start -->
                                 <div class="footer-logo">
-                                    <img src="images/logo/pslogo.png" alt="">
+                                    <img src="images/ps_logo.png" alt="Logo" style="width:120px; height:auto;">
                                 </div>
                                 <!-- Footer Logo End -->
                             </div>

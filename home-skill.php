@@ -34,7 +34,7 @@
                         <!-- Skills Progress Bar Start -->
                         <div class="skills-progress-bar">
                             <!-- Skill Item Start -->
-                            <div class="skillbar" data-percent="85%">
+                            <!--<div class="skillbar" data-percent="85%">
                                 <div class="skill-data">
                                     <div class="skill-title">Problem Solving & Project Innovation</div>
                                     <div class="skill-no">85%</div>
@@ -42,7 +42,7 @@
                                 <div class="skill-progress">
                                     <div class="count-bar"></div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- Skill Item End -->
                         </div>
                         <!-- Skills Progress Bar End -->
@@ -73,19 +73,19 @@
                 <div class="our-skill-image">
                     <div class="our-skill-img-1">
                         <figure class="image-anime reveal">
-                            <img src="images/our-skill-img-1.jpg" alt="Design Planning">
+                            <img src="images/skil-1.webp" alt="Design Planning">
                         </figure>
                     </div>
 
                     <div class="our-skill-img-2">
                         <figure class="image-anime reveal">
-                            <img src="images/our-skill-img-2.jpg" alt="Creative Visualization">
+                            <img src="images/skil-2.webp" alt="Creative Visualization">
                         </figure>
                     </div>
 
                     <div class="our-skill-img-3">
                         <figure class="image-anime reveal">
-                            <img src="images/our-skill-img-3.jpg" alt="Team Collaboration">
+                            <img src="images/skil-3.webp" alt="Team Collaboration">
                         </figure>
                     </div>
                 </div>

@@ -6,7 +6,7 @@
                 <!-- Our Testimonial Image Start -->
                 <div class="our-testimonials-image">
                     <figure class="image-anime">
-                        <img src="images/testimonial-img.jpg" alt="Happy Indian Clients">
+                        <img src="images/testimonials.webp" alt="Happy Indian Clients">
                     </figure>
                 </div>
                 <!-- Our Testimonial Image End -->

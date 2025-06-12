@@ -27,8 +27,8 @@
                         <!-- Post Featured Image Start-->
                         <div class="post-featured-image">
                             <figure>
-                                <a href="blog-single.html" class="image-anime" data-cursor-text="View">
-                                    <img src="images/post-1.jpg" alt="">
+                                <a href="#" class="image-anime" data-cursor-text="View">
+                                    <img src="images/blog1.webp" alt="">
                                 </a>
                             </figure>
                         </div>
@@ -38,13 +38,13 @@
                         <div class="post-item-body">
                             <!-- Post Item Content Start -->
                             <div class="post-item-content">
-                                <h3><a href="blog-single.html">How Does One Go About a Buying Furniture?</a></h3>
+                                <h3><a href="#">How Does One Go About a Buying Furniture?</a></h3>
                             </div>
                             <!-- Post Item Content End -->
 
                             <!-- Blog Item Button Start -->
                             <div class="post-item-btn">
-                                <a href="blog-single.html" class="post-btn">read more</a>
+                                <a href="#" class="post-btn">read more</a>
                             </div>
                             <!-- Blog Item Button End -->
                         </div>
@@ -59,8 +59,8 @@
                         <!-- Post Featured Image Start-->
                         <div class="post-featured-image">
                             <figure>
-                                <a href="blog-single.html" class="image-anime" data-cursor-text="View">
-                                    <img src="images/post-2.jpg" alt="">
+                                <a href="#" class="image-anime" data-cursor-text="View">
+                                    <img src="images/blog2.webp" alt="">
                                 </a>
                             </figure>
                         </div>
@@ -70,13 +70,13 @@
                         <div class="post-item-body">
                             <!-- Post Item Content Start -->
                             <div class="post-item-content">
-                                <h3><a href="blog-single.html">Innovative Décor Ideas Shaping Homes Today</a></h3>
+                                <h3><a href="#">Innovative Décor Ideas Shaping Homes Today</a></h3>
                             </div>
                             <!-- Post Item Content End -->
 
                             <!-- Blog Item Button Start -->
                             <div class="post-item-btn">
-                                <a href="blog-single.html" class="post-btn">read more</a>
+                                <a href="#" class="post-btn">read more</a>
                             </div>
                             <!-- Blog Item Button End -->
                         </div>
@@ -91,8 +91,8 @@
                         <!-- Post Featured Image Start-->
                         <div class="post-featured-image">
                             <figure>
-                                <a href="blog-single.html" class="image-anime" data-cursor-text="View">
-                                    <img src="images/post-3.jpg" alt="">
+                                <a href="#" class="image-anime" data-cursor-text="View">
+                                    <img src="images/blog3.webp" alt="">
                                 </a>
                             </figure>
                         </div>
@@ -102,13 +102,13 @@
                         <div class="post-item-body">
                             <!-- Post Item Content Start -->
                             <div class="post-item-content">
-                                <h3><a href="blog-single.html">Design Industry Updates You Should Know About</a></h3>
+                                <h3><a href="#">Design Industry Updates You Should Know About</a></h3>
                             </div>
                             <!-- Post Item Content End -->
 
                             <!-- Blog Item Button Start -->
                             <div class="post-item-btn">
-                                <a href="blog-single.html" class="post-btn">read more</a>
+                                <a href="#" class="post-btn">read more</a>
                             </div>
                             <!-- Blog Item Button End -->
                         </div>

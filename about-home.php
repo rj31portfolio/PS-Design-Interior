@@ -14,7 +14,7 @@
                             <img src="images/about-home 2.webp" alt="Elegant Home Decor">
                         </figure>
                         <div class="experience-counter">
-                            <h3><span class="counter">15</span>+</h3>
+                            <h3><span class="counter">5</span>+</h3>
                             <p>Years of Interior Excellence</p>
                         </div>
                     </div>

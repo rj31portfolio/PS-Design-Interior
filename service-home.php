@@ -26,9 +26,9 @@
                     <div class="service-item wow fadeInUp">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-1.jpg" alt="">
+                                    <img src="images/service1.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -36,13 +36,13 @@
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">residential interior design</a></h3>
+                            <h3><a href="#">residential interior design</a></h3>
                             <p>We create personalized living spaces that reflect your style and functional needs.</p>
                         </div>
                         <!-- Service Content End -->
@@ -55,9 +55,9 @@
                     <div class="service-item wow fadeInUp" data-wow-delay="0.2s">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-2.jpg" alt="">
+                                    <img src="images/service2.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -65,13 +65,13 @@
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">commercial interior design</a></h3>
+                            <h3><a href="#">commercial interior design</a></h3>
                             <p>Enhancing business environments with professional, functional, and aesthetically.</p>
                         </div>
                         <!-- Service Content End -->
@@ -84,9 +84,9 @@
                     <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-3.jpg" alt="">
+                                    <img src="images/service3.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -94,14 +94,14 @@
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">furniture and decor selection</a></h3>
-                            <p>Our experts help you choose the perfect furniture and decor complement your style.</p>
+                            <h3><a href="#">3D and 2D Interior Design</a></h3>
+                            <p>Expert 3D and 2D interior design services that bring your dream spaces to life with style.</p>
                         </div>
                         <!-- Service Content End -->
                     </div>

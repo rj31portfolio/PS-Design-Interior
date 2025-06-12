@@ -5,7 +5,8 @@
 				<div class="navbar navbar-expand-lg">
 					<!-- Logo Start -->
 					<a class="navbar-brand" href="index.php">
-						<img src="images/logo/pslogo.png" alt="Logo">
+						<img src="images/ps_logo.png" alt="Logo" style="width:80px; height:auto;">
+
 					</a>
 					<!-- Logo End -->
 
