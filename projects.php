@@ -15,7 +15,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 	<meta name="keywords" content="">
 	<meta name="author" content="Awaiken">
 	<!-- Page Title -->
-    <title>Inspaire - Architecture and Interior Design HTML Template</title>
+    <title>PS Design Projects</title>
 	<!-- Favicon Icon -->
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
 	<!-- Google Fonts Css-->
@@ -59,8 +59,8 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 						<h1 class="text-anime-style-2" data-cursor="-opaque">Our projects</h1>
 						<nav class="wow fadeInUp">
 							<ol class="breadcrumb">
-								<li class="breadcrumb-item"><a href="index.html">home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">our projects</li>
+								<li class="breadcrumb-item"><a href="index.php">home</a></li>
+								
 							</ol>
 						</nav>
 					</div>
@@ -99,18 +99,18 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project-1.jpg" alt="">
+                                            <img src="images/architecture-1.webp" alt="">
                                         </figure>
                                     </div>
                                 
                                     <div class="project-btn">
-                                        <a href="project-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                        <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                                     </div>
                                 </div>     
     
                                 <div class="project-content">
                                     <h3>residential spaces</h3>
-                                    <h2><a href="project-single.html">urban retreat: modern design meets comfort</a></h2>
+                                    <h2><a href="#">urban retreat: modern design meets comfort</a></h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -122,18 +122,18 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project-2.jpg" alt="">
+                                            <img src="images/kitchen-1.webp" alt="">
                                         </figure>
                                     </div>
                                 
                                     <div class="project-btn">
-                                        <a href="project-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                        <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                                     </div>
                                 </div>     
     
                                 <div class="project-content">
                                     <h3>luxury homes</h3>
-                                    <h2><a href="project-single.html">luxurious loft: industrial chic for living</a></h2>
+                                    <h2><a href="#">luxurious loft: industrial chic for living</a></h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -145,18 +145,18 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project-3.jpg" alt="">
+                                            <img src="images/architecture-2.webp" alt="">
                                         </figure>
                                     </div>
                                 
                                     <div class="project-btn">
-                                        <a href="project-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                        <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                                     </div>
                                 </div>     
     
                                 <div class="project-content">
                                     <h3>outdoor living spaces</h3>
-                                    <h2><a href="project-single.html">coastal vibes: serenity by the sea</a></h2>
+                                    <h2><a href="#">coastal vibes: serenity by the sea</a></h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -168,18 +168,18 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project-4.jpg" alt="">
+                                            <img src="images/kitchen-2.webp" alt="">
                                         </figure>
                                     </div>
                                 
                                     <div class="project-btn">
-                                        <a href="project-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                        <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                                     </div>
                                 </div>     
     
                                 <div class="project-content">
                                     <h3>modern designs</h3>
-                                    <h2><a href="project-single.html">minimalist haven: simple, clean, inviting spaces</a></h2>
+                                    <h2><a href="#">minimalist haven: simple, clean, inviting spaces</a></h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -191,18 +191,18 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project-5.jpg" alt="">
+                                            <img src="images/interior-2.webp" alt="">
                                         </figure>
                                     </div>
                                 
                                     <div class="project-btn">
-                                        <a href="project-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                        <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                                     </div>
                                 </div>     
     
                                 <div class="project-content">
                                     <h3>Rustic Charm Revived</h3>
-                                    <h2><a href="project-single.html">Nature's Embrace: Timeless Tranquility</a></h2>
+                                    <h2><a href="#">Nature's Embrace: Timeless Tranquility</a></h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -214,18 +214,18 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project-6.jpg" alt="">
+                                            <img src="images/furniture-1.webp" alt="">
                                         </figure>
                                     </div>
                                 
                                     <div class="project-btn">
-                                        <a href="project-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                        <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                                     </div>
                                 </div>     
     
                                 <div class="project-content">
                                     <h3>Nature-Inspired Harmony</h3>
-                                    <h2><a href="project-single.html">Bold Accents: Statement Living Design</a></h2>
+                                    <h2><a href="#">Bold Accents: Statement Living Design</a></h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
