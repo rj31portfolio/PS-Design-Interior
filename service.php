@@ -4,7 +4,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 <!DOCTYPE html>
 <html lang="zxx">
 
-<!-- Mirrored from html.awaikenthemes.com/inspaire/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jun 2025 17:18:42 GMT -->
+
 <head>
 	<!-- Meta -->
 	<meta charset="utf-8">
@@ -14,7 +14,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 	<meta name="keywords" content="">
 	<meta name="author" content="Awaiken">
 	<!-- Page Title -->
-    <title>Inspaire - Architecture and Interior Design HTML Template</title>
+    <title>Ps Design Services</title>
 	<!-- Favicon Icon -->
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
 	<!-- Google Fonts Css-->
@@ -58,8 +58,8 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 						<h1 class="text-anime-style-2" data-cursor="-opaque">Services</h1>
 						<nav class="wow fadeInUp">
 							<ol class="breadcrumb">
-								<li class="breadcrumb-item"><a href="index.html">home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">services</li>
+								<li class="breadcrumb-item"><a href="index.php">home</a></li>
+								
 							</ol>
 						</nav>
 					</div>
@@ -79,9 +79,9 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                     <div class="service-item wow fadeInUp">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-1.jpg" alt="">
+                                    <img src="images/funture-4.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -89,13 +89,13 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">residential interior design</a></h3>
+                            <h3><a href="#">residential interior design</a></h3>
                             <p>We create personalized living spaces that reflect your style and functional needs.</p>
                         </div>
                         <!-- Service Content End -->
@@ -108,9 +108,9 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                     <div class="service-item wow fadeInUp">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-2.jpg" alt="">
+                                    <img src="images/interior-4.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -118,13 +118,13 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">commercial interior design</a></h3>
+                            <h3><a href="#">commercial interior design</a></h3>
                             <p>Enhancing business environments with professional, functional, and aesthetically.</p>
                         </div>
                         <!-- Service Content End -->
@@ -137,9 +137,9 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                     <div class="service-item wow fadeInUp" data-wow-delay="0.2s">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-3.jpg" alt="">
+                                    <img src="images/architechure.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -147,13 +147,13 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">furniture and decor selection</a></h3>
+                            <h3><a href="#">furniture and decor selection</a></h3>
                             <p>Our experts help you choose the perfect furniture and decor complement your style.</p>
                         </div>
                         <!-- Service Content End -->
@@ -166,9 +166,9 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                     <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-4.jpg" alt="">
+                                    <img src="images/furniture-2.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -176,13 +176,13 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">lighting design</a></h3>
+                            <h3><a href="#">lighting design</a></h3>
                             <p>Enhancing ambiance and functionality with thoughtfully designed lighting solutions.</p>
                         </div>
                         <!-- Service Content End -->
@@ -195,9 +195,9 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                     <div class="service-item wow fadeInUp" data-wow-delay="0.6s">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-5.jpg" alt="">
+                                    <img src="images/skil-3.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -205,13 +205,13 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">color consultation</a></h3>
+                            <h3><a href="#">color consultation</a></h3>
                             <p>Choosing palettes that evoke warmth, energy, or calm to match your vision.</p>
                         </div>
                         <!-- Service Content End -->
@@ -224,9 +224,9 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                     <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
                         <!-- Service Image Start -->
                         <div class="service-image">
-                            <a href="service-single.html" data-cursor-text="View">
+                            <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-6.jpg" alt="">
+                                    <img src="images/bedroom-4.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -234,13 +234,13 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
 
                         <!-- Service Button Start -->
                         <div class="service-btn">
-                            <a href="service-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                            <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                         </div>
                         <!-- Service Button End -->
 
                         <!-- Service Content Start -->
                         <div class="service-content">
-                            <h3><a href="service-single.html">3D visualization</a></h3>
+                            <h3><a href="#">3D visualization</a></h3>
                             <p>Bringing design ideas to life with realistic 3D models before the work begins.</p>
                         </div>
                         <!-- Service Content End -->
