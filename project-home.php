@@ -45,18 +45,18 @@
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project-1.jpg" alt="">
+                                            <img src="images/architecture-1.webp" alt="">
                                         </figure>
                                     </div>
                                 
                                     <div class="project-btn">
-                                        <a href="project-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                        <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                                     </div>
                                 </div>     
     
                                 <div class="project-content">
                                     <h3>residential spaces</h3>
-                                    <h2><a href="project-single.html">urban retreat: modern design meets comfort</a></h2>
+                                    <h2><a href="#">urban retreat: modern design meets comfort</a></h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -68,18 +68,18 @@
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project-2.jpg" alt="">
+                                            <img src="images/kitchen-1.webp" alt="">
                                         </figure>
                                     </div>
                                 
                                     <div class="project-btn">
-                                        <a href="project-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                        <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                                     </div>
                                 </div>     
     
                                 <div class="project-content">
-                                    <h3>luxury homes</h3>
-                                    <h2><a href="project-single.html">luxurious loft: industrial chic for living</a></h2>
+                                    <h3>luxury Kitchen</h3>
+                                    <h2><a href="#">luxurious loft: industrial chic for living</a></h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -91,18 +91,18 @@
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project-3.jpg" alt="">
+                                            <img src="images/architecture-2.webp" alt="">
                                         </figure>
                                     </div>
                                 
                                     <div class="project-btn">
-                                        <a href="project-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                        <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                                     </div>
                                 </div>     
     
                                 <div class="project-content">
                                     <h3>outdoor living spaces</h3>
-                                    <h2><a href="project-single.html">coastal vibes: serenity by the sea</a></h2>
+                                    <h2><a href="#">coastal vibes: serenity by the sea</a></h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
@@ -114,18 +114,18 @@
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project-4.jpg" alt="">
+                                            <img src="images/kitchen-2.webp" alt="">
                                         </figure>
                                     </div>
                                 
                                     <div class="project-btn">
-                                        <a href="project-single.html"><img src="images/arrow-white.svg" alt=""></a>
+                                        <a href="#"><img src="images/arrow-white.svg" alt=""></a>
                                     </div>
                                 </div>     
     
                                 <div class="project-content">
                                     <h3>modern designs</h3>
-                                    <h2><a href="project-single.html">minimalist haven: simple, clean, inviting spaces</a></h2>
+                                    <h2><a href="#">minimalist haven: simple, clean, inviting spaces</a></h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
