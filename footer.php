@@ -179,6 +179,74 @@
     <script src="js/wow.min.js"></script>
     <!-- Main Custom js file -->
     <script src="js/function.js"></script>
+
+    <!-- Sticky Social Bar Right Side -->
+<style>
+    .social-bar {
+        position: fixed;
+        top: 35%;
+        right: 0;
+        z-index: 1000;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px 5px;
+        background: #1c1c1c;
+        border-radius: 10px 0 0 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+
+    .social-bar a {
+        display: block;
+    }
+
+    .social-bar a img {
+        width: 40px;
+        height: 40px;
+        transition: transform 0.3s ease;
+        border-radius: 5px;
+    }
+
+    .social-bar a:hover img {
+        transform: scale(1.2);
+    }
+
+    @media (max-width: 768px) {
+        .social-bar {
+            top: auto;
+            bottom: 20px;
+            right: 10px;
+            flex-direction: row;
+            border-radius: 10px;
+            padding: 5px;
+        }
+    }
+</style>
+
+<div class="social-bar">
+    <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
+        <img src="images/icon/instagram.png" alt="Instagram">
+    </a>
+    <a href="https://www.youtube.com/@PSDisenos" target="_blank" rel="noopener noreferrer">
+        <img src="images/icon/youtube.png" alt="YouTube">
+    </a>
+    <a href="https://www.pinterest.com/psdisenos/?invite_code=eaac239928a440ff8c376b41d9f9607a&sender=827325531455312414" target="_blank" rel="noopener noreferrer">
+        <img src="images/icon/social.png" alt="Pinterest">
+    </a>
+    <a href="https://www.linkedin.com/company/ps-disenos/" target="_blank" rel="noopener noreferrer">
+        <img src="images/icon/linkedin.png" alt="LinkedIn">
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100093298519140" target="_blank" rel="noopener noreferrer">
+        <img src="images/icon/facebook.png" alt="Facebook">
+    </a>
+    <a href="mailto:Info@preetisethidesigns.com">
+        <img src="images/icon/gmail.png" alt="Gmail">
+    </a>
+    <a href="https://api.whatsapp.com/message/D2GXZKZLW232G1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer">
+        <img src="images/icon/whatsapp.png" alt="WhatsApp">
+    </a>
+</div>
+
 </body>
 
 
