@@ -126,16 +126,21 @@
 
             <!-- Footer Copyright Section Start -->
             <div class="footer-copyright">
-                <div class="row">
-                    <div class="col-md-12">
-                        <!-- Footer Copyright Start -->
-                        <div class="footer-copyright-text">
-                            <p>Copyright © 2024 All Rights Reserved. || Design By- <a href="../../../www.apanasolution.com">Apana Solution</a></p>
-                        </div>
-                        <!-- Footer Copyright End -->
-                    </div>
-                </div>
+    <div class="row">
+        <div class="col-md-12">
+            <!-- Footer Copyright Start -->
+            <div class="footer-copyright-text">
+                <p>
+                    Copyright © 2024 All Rights Reserved. ||
+                    Design By - 
+                    <a href="https://www.apnasolution.com" target="_blank" rel="noopener noreferrer">Apana Solution</a>
+                </p>
             </div>
+            <!-- Footer Copyright End -->
+        </div>
+    </div>
+</div>
+
             <!-- Footer Copyright Section End -->
         </div>
     </footer>

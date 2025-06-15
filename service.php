@@ -1,5 +1,5 @@
 <?php
-define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
+require_once "config.php"; // Include the configuration file for BASE_URL
 ?>
 <!DOCTYPE html>
 <html lang="zxx">

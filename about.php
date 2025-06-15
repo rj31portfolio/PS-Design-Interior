@@ -1,5 +1,5 @@
 <?php
-define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
+require_once "config.php"; // Include the configuration file for BASE_URL
 ?>
 <!DOCTYPE html>
 <html lang="zxx">
@@ -142,7 +142,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                     <!-- Best Selling Content Image Start -->
                     <div class="best-selling-content-img">
                         <figure class="image-anime reveal">
-                            <img src="images/best-selling-img-1.jpg" alt="Premium Finish Sample">
+                            <img src="images/bedroom-3.webp" alt="Premium Finish Sample">
                         </figure>
                     </div>
                     <!-- Best Selling Content Image End -->
@@ -161,7 +161,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                 <!-- Best Selling Image Start -->
                 <div class="best-selling-iamge">
                     <figure class="image-anime reveal">
-                        <img src="images/best-selling-img-2.jpg" alt="Finish Collection">
+                        <img src="images/interior-4.webp" alt="Finish Collection">
                     </figure>
                 </div>
                 <!-- Best Selling Image End -->
@@ -268,7 +268,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                 <!-- Our FAQ Image Start -->
                 <div class="our-faqs-image">
                     <figure class="image-anime reveal">
-                        <img src="images/faqs-image.jpg" alt="FAQs Illustration">
+                        <img src="images/choose4.webp" alt="FAQs Illustration">
                     </figure>
                 </div>
                 <!-- Our FAQ Image End -->
@@ -293,53 +293,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                         </div>
                         <!-- Section Title End -->
 
-                        <!-- Client Logo Slider Start -->
-                        <div class="our-client-slider">
-                            <div class="swiper">
-                                <div class="swiper-wrapper">
-                                    <!-- Client Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="client-logo">
-                                            <img src="images/client-logo-1.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Client Logo End -->
-
-                                    <!-- Client Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="client-logo">
-                                            <img src="images/client-logo-2.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Client Logo End -->
-
-                                    <!-- Client Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="client-logo">
-                                            <img src="images/client-logo-3.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Client Logo End -->
-                                    
-                                    <!-- Client Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="client-logo">
-                                            <img src="images/client-logo-4.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Client Logo End -->
-                                    
-                                    <!-- Client Logo Start -->
-                                    <div class="swiper-slide">
-                                        <div class="client-logo">
-                                            <img src="images/client-logo-1.svg" alt="">
-                                        </div>
-                                    </div>
-                                    <!-- Client Logo End -->
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Client Logo Slider End -->
+                        
                     </div>
                 </div>
             </div>

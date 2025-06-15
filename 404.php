@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 
-<!-- Mirrored from html.awaikenthemes.com/inspaire/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jun 2025 17:18:58 GMT -->
+
 <head>
 	<!-- Meta -->
 	<meta charset="utf-8">
@@ -56,7 +56,7 @@
 						<nav class="wow fadeInUp">
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index.html">home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">404 error page</li>
+								
 							</ol>
 						</nav>
 					</div>
@@ -81,7 +81,7 @@
                         </div>
                         <div class="error-page-content-body">
                             <p class="wow fadeInUp" data-wow-delay="0.5s">We searched everywhere but couldn't find what  you're looking for. Let's find a better place for you to go.</p>
-                            <a class="btn-default wow fadeInUp" data-wow-delay="0.75s" href="index.html"><span>back to home</span></a>
+                            <a class="btn-default wow fadeInUp" data-wow-delay="0.75s" href="index.php"><span>back to home</span></a>
                         </div>
                     </div>
                 </div>

@@ -42,7 +42,7 @@
                             <img src="images/icon-how-we-work-2.svg" alt="">
                         </div>
                         <div class="how-we-work-content">
-                            <h3>02. Design Planning</h3>
+                            <h3>02. Design </h3>
                             <p>We create a comprehensive design plan including layout, mood boards, material selections, and 3D visualizations.</p>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                             <img src="images/icon-how-we-work-3.svg" alt="">
                         </div>
                         <div class="how-we-work-content">
-                            <h3>03. Project Execution</h3>
+                            <h3>03. Planning </h3>
                             <p>Our team oversees every aspect of execution, ensuring timelines, quality, and seamless coordination.</p>
                         </div>
                     </div>
@@ -66,7 +66,7 @@
                             <img src="images/icon-how-we-work-4.svg" alt="">
                         </div>
                         <div class="how-we-work-content">
-                            <h3>04. Final Walkthrough</h3>
+                            <h3>04. Project Execution</h3>
                             <p>We conduct a detailed walkthrough with you to ensure every detail meets your expectations and satisfaction.</p>
                         </div>
                     </div>

@@ -1,3 +1,6 @@
+<?php
+require_once "config.php"; // Include the configuration file for BASE_URL
+?>
 <!DOCTYPE html>
 <html lang="zxx">
 
