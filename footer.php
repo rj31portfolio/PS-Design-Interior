@@ -146,39 +146,40 @@
     </footer>
     <!-- Footer End -->
 
-    <!-- Jquery Library File -->
-    <script src="js/jquery-3.7.1.min.js"></script>
-    <!-- Bootstrap js file -->
-    <script src="js/bootstrap.min.js"></script>
-    <!-- Validator js file -->
-    <script src="js/validator.min.js"></script>
-    <!-- SlickNav js file -->
-    <script src="js/jquery.slicknav.js"></script>
-    <!-- Swiper js file -->
-    <script src="js/swiper-bundle.min.js"></script>
-    <!-- Counter js file -->
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <!-- Isotop js file -->
-	<script src="js/isotope.min.js"></script>
-    <!-- Magnific js file -->
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <!-- SmoothScroll -->
-    <script src="js/SmoothScroll.js"></script>
-    <!-- Parallax js -->
-    <script src="js/parallaxie.js"></script>
-    <!-- MagicCursor js file -->
-    <script src="js/gsap.min.js"></script>
-    <script src="js/magiccursor.js"></script>
-    <!-- Text Effect js file -->
-    <script src="js/SplitText.js"></script>
-    <script src="js/ScrollTrigger.min.js"></script>
-    <!-- YTPlayer js File -->
-    <script src="js/jquery.mb.YTPlayer.min.js"></script>
-    <!-- Wow js file -->
-    <script src="js/wow.min.js"></script>
-    <!-- Main Custom js file -->
-    <script src="js/function.js"></script>
+   <!-- Jquery Library File -->
+<script src="<?php echo BASE_URL; ?>js/jquery-3.7.1.min.js"></script>
+<!-- Bootstrap js file -->
+<script src="<?php echo BASE_URL; ?>js/bootstrap.min.js"></script>
+<!-- Validator js file -->
+<script src="<?php echo BASE_URL; ?>js/validator.min.js"></script>
+<!-- SlickNav js file -->
+<script src="<?php echo BASE_URL; ?>js/jquery.slicknav.js"></script>
+<!-- Swiper js file -->
+<script src="<?php echo BASE_URL; ?>js/swiper-bundle.min.js"></script>
+<!-- Counter js file -->
+<script src="<?php echo BASE_URL; ?>js/jquery.waypoints.min.js"></script>
+<script src="<?php echo BASE_URL; ?>js/jquery.counterup.min.js"></script>
+<!-- Isotope js file -->
+<script src="<?php echo BASE_URL; ?>js/isotope.min.js"></script>
+<!-- Magnific js file -->
+<script src="<?php echo BASE_URL; ?>js/jquery.magnific-popup.min.js"></script>
+<!-- SmoothScroll -->
+<script src="<?php echo BASE_URL; ?>js/SmoothScroll.js"></script>
+<!-- Parallax js -->
+<script src="<?php echo BASE_URL; ?>js/parallaxie.js"></script>
+<!-- MagicCursor js file -->
+<script src="<?php echo BASE_URL; ?>js/gsap.min.js"></script>
+<script src="<?php echo BASE_URL; ?>js/magiccursor.js"></script>
+<!-- Text Effect js file -->
+<script src="<?php echo BASE_URL; ?>js/SplitText.js"></script>
+<script src="<?php echo BASE_URL; ?>js/ScrollTrigger.min.js"></script>
+<!-- YTPlayer js File -->
+<script src="<?php echo BASE_URL; ?>js/jquery.mb.YTPlayer.min.js"></script>
+<!-- Wow js file -->
+<script src="<?php echo BASE_URL; ?>js/wow.min.js"></script>
+<!-- Main Custom js file -->
+<script src="<?php echo BASE_URL; ?>js/function.js"></script>
+
 
     <!-- Sticky Social Bar Right Side -->
 <style>
