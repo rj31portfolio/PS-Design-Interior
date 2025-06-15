@@ -11,7 +11,7 @@
 	<meta name="keywords" content="">
 	<meta name="author" content="Awaiken">
 	<!-- Page Title -->
-    <title>Inspaire - Architecture and Interior Design HTML Template</title>
+    <title>PS Design FAQ</title>
 	<!-- Favicon Icon -->
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
 	<!-- Google Fonts Css-->
@@ -56,7 +56,7 @@
 						<nav class="wow fadeInUp">
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index.html">home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">FAQs</li>
+								
 							</ol>
 						</nav>
 					</div>
@@ -90,7 +90,7 @@
                             <!-- Sidebar CTA Image Start -->
                             <div class="sidebar-cta-image">
                                 <div class="image-anime">
-                                    <img src="images/sidebar-cta-img.jpg" alt="">
+                                    <img src="images/bedroom-2.webp" alt="">
                                 </div>
                             </div>
                             <!-- Sidebar CTA Image End -->
@@ -112,7 +112,7 @@
                                             <img src="images/icon-phone.svg" alt="">
                                         </div>
                                         <div class="cta-contact-item-content">
-                                            <p>+91 1234567890</p>
+                                            <p>+91-9971891303</p>
                                         </div>
                                     </div>
                                     <!-- Sidebar CTA Contact Item Start -->

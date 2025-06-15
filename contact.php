@@ -79,7 +79,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                     <!-- Contact Us Image Start -->
                     <div class="contact-us-image">
                         <figure class="image-anime reveal">
-                            <img src="images/contact-us-image.jpg" alt="">
+                            <img src="images/bedroom-4.webp" alt="">
                         </figure>
                     </div>
                     <!-- Contact Us Image End -->
@@ -176,7 +176,7 @@ define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
                             <!-- Contact Info Content Start -->
                             <div class="contact-info-content">
                                 <h3>phone number</h3>
-                                <p>+91-+919971891303</p>
+                                <p>+91 9971891303</p>
                                <!-- <p>(+07) 358 - 879 - 3257</p>       -->                         
                             </div>
                             <!-- Contact Info Content End -->
