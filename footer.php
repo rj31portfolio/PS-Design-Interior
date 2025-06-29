@@ -133,7 +133,7 @@
                 <p>
                     Copyright © 2024 All Rights Reserved. ||
                     Design By - 
-                    <a href="https://www.apnasolution.com" target="_blank" rel="noopener noreferrer">Apana Solution</a>
+                    <a href="https://www.apnasolution.com" target="_blank" rel="noopener noreferrer">Apna Solution</a>
                 </p>
             </div>
             <!-- Footer Copyright End -->

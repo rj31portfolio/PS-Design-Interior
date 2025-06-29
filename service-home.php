@@ -57,7 +57,7 @@
                         <div class="service-image">
                             <a href="#" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service2.webp" alt="">
+                                    <img src="images/commerse-3.webp" alt="">
                                 </figure>
                             </a>
                         </div>

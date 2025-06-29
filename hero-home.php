@@ -4,14 +4,15 @@
         <div class="hero-bg-video">
             <!-- Selfhosted Video Start -->
             <!-- <video autoplay muted loop id="myVideo"><source src="images/hero-bg-video.mp4" type="video/mp4"></video> -->
-            <video autoplay muted loop id="myVideo"><source src="https://demo.awaikenthemes.com/assets/videos/inspaire-video.mp4" type="video/mp4"></video>
+           <!-- <video autoplay muted loop id="myVideo"><source src="https://demo.awaikenthemes.com/assets/videos/inspaire-video.mp4" type="video/mp4"></video> -->
             
             <!-- Selfhosted Video End -->
 
             <!-- Youtube Video Start -->
             <!-- <div id="herovideo" class="player" data-property="{videoURL:'74DWwSxsVSs',containment:'.hero-video', showControls:false, autoPlay:true, loop:true, vol:0, mute:false, startAt:0,  stopAt:296, opacity:1, addRaster:true, quality:'large', optimizeDisplay:true}"></div> -->
             <!-- Youtube Video End -->
-        </div>
+             
+        </div>  
         <!-- Video End -->
         <div class="container">
             <div class="row align-items-center">
@@ -28,8 +29,8 @@
 
                         <!-- Hero Button Start -->
                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="about.html" class="btn-default">explore more</a>
-                            <a href="projects.html" class="btn-default btn-highlighted">view projects</a>
+                            <a href="#about" class="btn-default">explore more</a>
+                            <a href="tel" class="btn-default btn-highlighted">Call US</a>
                         </div>
                         <!-- Hero Button End -->
                     </div>
