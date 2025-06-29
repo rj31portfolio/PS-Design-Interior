@@ -16,7 +16,7 @@
 
                             <div class="col-md-6">
                                 <!-- Footer Social Link Start -->
-                                <div class="footer-social-links">
+                             <!--   <div class="footer-social-links">
                                     <div class="footer-social-link-title">
                                         <h3>follow our socials</h3>
                                     </div>
@@ -25,7 +25,7 @@
                                         <li><a href="#"><i class="fa-brands fa-dribbble"></i></a></li>
                                         <li><a href="https://www.instagram.com/preetisethidesigns?igsh=ZWwzc2Y1NjdidTZo"><i class="fa-brands fa-instagram"></i></a></li>
                                     </ul>
-                                </div>
+                                </div> -->
                                 <!-- Footer Social Link End -->
                             </div>
                         </div>
@@ -225,7 +225,7 @@
 </style>
 
 <div class="social-bar">
-    <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.instagram.com/preetisethidesigns?igsh=ZWwzc2Y1NjdidTZo" target="_blank" rel="noopener noreferrer">
         <img src="images/icon/instagram.png" alt="Instagram">
     </a>
     <a href="https://www.youtube.com/@PSDisenos" target="_blank" rel="noopener noreferrer">

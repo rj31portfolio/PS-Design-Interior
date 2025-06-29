@@ -45,12 +45,12 @@
                                         <div class="testimonial-body">
                                             <div class="author-image">
                                                 <figure class="image-anime">
-                                                    <img src="images/author-1.jpg" alt="Rohan Mehta">
+                                                    <img src="images/author-3.png" alt="Rohan Mehta">
                                                 </figure>
                                             </div>            
                                             <div class="author-content">
                                                 <h3>Rohan Mehta</h3>
-                                                <p>IT Professional, Bengaluru</p>
+                                                <p>IT Professional, Delhi</p>
                                             </div>
                                         </div>
                                     </div>
@@ -73,12 +73,12 @@
                                         <div class="testimonial-body">
                                             <div class="author-image">
                                                 <figure class="image-anime">
-                                                    <img src="images/author-2.jpg" alt="Anjali Sharma">
+                                                    <img src="images/author-2.png" alt="Anjali Sharma">
                                                 </figure>
                                             </div>            
                                             <div class="author-content">
                                                 <h3>Anjali Sharma</h3>
-                                                <p>Entrepreneur, Mumbai</p>
+                                                <p>Entrepreneur, New Delhi</p>
                                             </div>
                                         </div>
                                     </div>

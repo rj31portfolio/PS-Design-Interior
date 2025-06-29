@@ -29,8 +29,8 @@
 
                         <!-- Hero Button Start -->
                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="#about" class="btn-default">explore more</a>
-                            <a href="tel" class="btn-default btn-highlighted">Call US</a>
+                           <!-- <a href="#about" class="btn-default">explore more</a> -->
+                            <a href="tel:+919971891303" class="btn-default btn-highlighted">Call US</a>
                         </div>
                         <!-- Hero Button End -->
                     </div>
