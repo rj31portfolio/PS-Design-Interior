@@ -107,7 +107,7 @@
                         <!-- Why Choose img 4 Start -->
                         <div class="why-choose-img-4">
                             <figure class="image-anime reveal">
-                                <img src="images/chosse4.jpg" alt="">
+                                <img src="images/chosse4.JPG" alt="">
                             </figure>
                         </div>
                         <!-- Why Choose img 4 End -->

@@ -73,7 +73,7 @@
                 <div class="our-skill-image">
                     <div class="our-skill-img-1">
                         <figure class="image-anime reveal">
-                            <img src="images/skil-1.webp" alt="Design Planning">
+                            <img src="images/whychoose.webp" alt="Design Planning">
                         </figure>
                     </div>
 

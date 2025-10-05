@@ -18,7 +18,7 @@
                                 <li class="nav-item"><a class="nav-link" href="about.php">About Us</a>
                                 <li class="nav-item"><a class="nav-link" href="service.php">Services</a></li>
                                 <li class="nav-item"><a class="nav-link" href="projects.php">Projects</a></li>
-                                <li class="nav-item"><a class="nav-link" href="faqs.php">FAQ</a></li>
+                                <li class="nav-item"><a class="nav-link" href="Faqs.php">FAQ</a></li>
                                
                                 
                                 <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>                             

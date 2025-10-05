@@ -1,39 +1,54 @@
 <?php
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require 'includes/PHPMailer/PHPMailer.php';
+require 'includes/PHPMailer/SMTP.php';
+require 'includes/PHPMailer/Exception.php';
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Collect form data
-    $name = htmlspecialchars($_POST["name"]);
-    $email = htmlspecialchars($_POST["email"]);
-    $phone = htmlspecialchars($_POST["phone"]);
-    $message = htmlspecialchars($_POST["message"]);
+    $name    = htmlspecialchars(trim($_POST["name"]));
+    $email   = htmlspecialchars(trim($_POST["email"]));
+    $phone   = htmlspecialchars(trim($_POST["phone"]));
+    $message = htmlspecialchars(trim($_POST["message"]));
 
-    // Email details
-    $to = "info@dpreetisethidesigns.com"; // Your professional email
-    $subject = "New Contact Form Submission from $name";
-    $body = "You have received a new message from your website contact form:\n\n".
-            "Name: $name\n".
-            "Email: $email\n".
-            "Phone: $phone\n".
-            "Message:\n$message";
+    $mail = new PHPMailer(true);
 
-    $headers = "From: $email\r\n";
-    $headers .= "Reply-To: $email\r\n";
+    try {
+        // SMTP Configuration (Hostinger)
+        $mail->isSMTP();
+        $mail->Host       = 'smtp.hostinger.com';
+        $mail->SMTPAuth   = true;
+        $mail->Username   = 'info@preetisethidesigns.com';   // Your email (created on Hostinger)
+        $mail->Password   = 'Preeti@26#';           // Replace with your actual email password
+        $mail->SMTPSecure = 'tls';
+        $mail->Port       = 587;
 
-    // Send the email
-    if (mail($to, $subject, $body, $headers)) {
-        // Alert and redirect
+        // Sender & Recipient
+        $mail->setFrom('info@preetisethidesigns.com', 'Preeti Sethi Website');
+        $mail->addAddress('info@preetisethidesigns.com');  // Receiving same mail
+
+        // Message
+        $mail->isHTML(true);
+        $mail->Subject = "New Contact Form Submission from $name";
+        $mail->Body    = "
+            <h2>New Contact Submission</h2>
+            <p><strong>Name:</strong> {$name}</p>
+            <p><strong>Email:</strong> {$email}</p>
+            <p><strong>Phone:</strong> {$phone}</p>
+            <p><strong>Message:</strong><br>{$message}</p>
+        ";
+
+        $mail->send();
         echo "<script>
-                alert('Thank you $name, your message has been sent!');
-                window.location.href = 'index.php'; // change to your homepage
-              </script>";
-    } else {
+            alert('Our Team Contact You Soon');
+            window.location.href = 'index.php';
+        </script>";
+    } catch (Exception $e) {
         echo "<script>
-                alert('Sorry $name, we could not send your message. Please try again.');
-                window.history.back();
-              </script>";
+            alert('Email sending failed: {$mail->ErrorInfo}');
+            window.history.back();
+        </script>";
     }
-} else {
-    // Redirect if accessed directly
-    header("Location: index.php"); // or your homepage
-    exit();
 }
 ?>

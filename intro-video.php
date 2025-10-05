@@ -9,7 +9,7 @@
                         <div class="intro-video-image">
                             <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
                                 <figure class="image-anime">
-                                    <img src="images/video-banner.webp" alt="">
+                                    <img src="images/website-banner.webp" alt="">
                                 </figure>
                             </a>                            
                         </div>

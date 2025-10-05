@@ -11,7 +11,7 @@
                     </div>
                     <div class="about-img-2">
                         <figure class="image-anime reveal">
-                            <img src="images/about-home 2.webp" alt="Elegant Home Decor">
+                            <img src="images/Lobay.webp" alt="Elegant Home Decor">
                         </figure>
                         <div class="experience-counter">
                             <h3><span class="counter">5</span>+</h3>

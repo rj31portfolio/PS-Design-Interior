@@ -1,3 +1,3 @@
 <?php
-define("BASE_URL", "http://localhost/Interior/"); // Change to your actual path
+define("BASE_URL", "https://preetisethidesigns.com/"); // Change to your actual path
 ?>
